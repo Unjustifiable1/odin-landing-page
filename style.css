@@ -41,6 +41,18 @@ img {
 
 }
 
+.hero-main-text {
+    font-size: 48px;
+    font-weight: extra-bold;
+    color: #F9FAF8;
+}
+
+.hero p {
+    font-size: 18px;
+    color: #E5E7EB;
+
+}
+
 .footer{
     background-color: #1F2937;
 
