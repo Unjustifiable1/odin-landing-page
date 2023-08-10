@@ -36,24 +36,44 @@ img {
     padding: 0 8px;
 }
 
-.hero{
+.hero {
     background-color: #1F2937;
+    display: flex;
+    justify-content: center;
+}
 
+.hero-div {
+    width: 500px;
+    padding-right: 16px;
+}
+
+.hero img {
+    width: 500px;
 }
 
 .hero-main-text {
     font-size: 48px;
     font-weight: extra-bold;
     color: #F9FAF8;
+    margin: 0;
 }
 
 .hero p {
     font-size: 18px;
     color: #E5E7EB;
+    margin: 8px 0;
+}
 
+.hero button {
+    background-color: #3882F6;
+    color: #E5E7EB;
+    font-weight: 700;
+    padding: 8px 24px;
+    border-radius: 8px;
 }
 
 .footer{
     background-color: #1F2937;
+    color: #E5E7EB;
 
 }
