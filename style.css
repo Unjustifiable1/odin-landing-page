@@ -1,6 +1,6 @@
 * {
     font-family: Roboto, sans-serif;
-    border: 1px solid red;
+    /* border: 1px solid red; */
 }
 
 body {
@@ -72,12 +72,6 @@ img {
     font-weight: 700;
     padding: 8px 24px;
     border-radius: 8px;
-}
-
-.footer{
-    background-color: #1F2937;
-    color: #E5E7EB;
-
 }
 
 .random-section {
@@ -180,4 +174,11 @@ img {
 .cta-container p,
 .cta-container h3 {
     margin: 0;
+}
+
+.footer{
+    background-color: #1F2937;
+    color: #E5E7EB;
+    text-align: center;
+    padding: 16px 0;
 }
