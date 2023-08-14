@@ -8,3 +8,10 @@ rubber.png - Rubber Duck Yellow vector graphic - Image by Alexander Gordon from 
 astronaut.png - Astronaut Spaceman Spacesuit vector graphic - Image by Mohamed Hassan from Pixabay
 laptop.jpg - Laptop Hand Computer stock illustration - Image by Ylanite Koppens from Pixabay
 
+Project Reflection:
+- feeling great after completing this simple landing page.
+- feeling great after completing this simple landing page.
+- elements seem to be lining up sufficiently on a smaller screen.
+
+Hiccups:
+- figuring out positioning took a few attempts to get things right, but not difficult
