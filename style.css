@@ -6,6 +6,8 @@
 body {
     display: flex;
     flex-direction: column;
+    width: 90%;
+    margin: auto;
 }
 
 img {
@@ -83,6 +85,7 @@ img {
     flex-direction: column;
     justify-content: center;
     align-items: center;
+    padding-bottom: 80px;
 }
 
 .random-container {
@@ -90,7 +93,7 @@ img {
     justify-content: space-between;
     flex-wrap: wrap;
     margin: 0 30px;
-    width: 1000px;
+    width: 80%;
 }
 
 .random-container img {
@@ -103,6 +106,7 @@ img {
     display: flex;
     flex-direction: column;
     align-items: center;
+    flex: 1 1 200px;
 }
 
 .random-interests p {
@@ -126,3 +130,25 @@ img {
     font-weight: extra-bold;
     color: #1F2937;
 }
+
+.quote-section {
+    background-color: #E5E7EB;
+    color: #1F2937;
+    font-size: 24px;
+    font-style: italic;
+    font-weight: 100;
+    padding: 80px;
+}
+
+.quote-section p {
+    width: 50%;
+    margin: auto;
+}
+
+.author {
+    text-align: right;
+    font-size: 16px;
+    font-weight: 700;
+    font-style: normal;
+}
+
