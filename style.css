@@ -117,7 +117,7 @@ img {
 
 .interest-img {
     border: 5px solid #3882F6;
-    border-radius: 15px;
+    border-radius: 16px;
     width: 180px;
     height: 180px;
     display: flex;
@@ -152,3 +152,32 @@ img {
     font-style: normal;
 }
 
+.cta-section {
+    margin: 80px auto;
+    width: 70%;
+    padding: 40px 80px;
+    border-radius: 16px;
+    background-color: #3882F6;
+    color: #F9FAF8;
+}
+
+.cta-container {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+
+.cta-container button {
+    flex-shrink: 0;
+    color: #F9FAF8;
+    border: 2px solid #F9FAF8;
+    border-radius: 4px;
+    background-color: #3882F6;
+    padding: 4px 24px;
+    font-weight: 700;
+}
+
+.cta-container p,
+.cta-container h3 {
+    margin: 0;
+}
